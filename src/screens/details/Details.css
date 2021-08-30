@@ -1,0 +1,51 @@
+.details-page-container {
+    width: 100%;
+  }
+  
+  .main-container {
+    display: flex;
+  }
+  
+  .main-container > .left {
+    width: 20%;
+    padding: 0px 16px;
+  }
+  .main-container > .right {
+    width: 20%;
+    padding: 0px 16px;
+  }
+  
+  .main-container > .left > img {
+    width: 100%;
+  }
+  
+  .main-container > .middle {
+    width: 60%;
+    padding: 0px 16px;
+  }
+  
+  div.back-to-home-button {
+    margin-top: 8px;
+    margin-left: 24px;
+    margin-bottom: 0px;
+    height: 24px;
+  }
+  
+  div.back-to-home-button:hover {
+    cursor: pointer;
+  }
+  
+  .bold-text {
+    font-weight: bold !important;
+  }
+  
+  .trailer-block,
+  .plot-block {
+    margin-top: 16px;
+  }
+  
+  p.artists-block-title {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
