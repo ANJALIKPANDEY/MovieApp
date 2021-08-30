@@ -1,0 +1,17 @@
+.login-register-form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: fit-content;
+    align-items: center;
+  }
+  
+  div.input-field {
+    width: 200px;
+    margin-top: 16px;
+  }
+  
+  button.submit-button {
+    margin-top: 48px;
+    width: fit-content;
+  }
